@@ -4,7 +4,7 @@ django specific static format and saves them in a new directory created "Modifie
 
 # Steps to use : 
 
-1. Clone the repository \n
+1. Clone the repository <br>
 2. Run the script by specifying the directory containing the html files or just copy paste the file djangify.py in the directory containing 
-the templates you need to change \n
+the templates you need to change <br>
 3. Usage : python djangify.py -d <Directory name> <file names> -a <App name>.
